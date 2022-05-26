@@ -570,6 +570,8 @@ public class ifrmProfesores extends javax.swing.JInternalFrame {
         ImageIcon icono = new ImageIcon(qr.toByteArray());
         lblQR.setIcon(icono);
         
+        //comenzamos a trabajar
+        
         
         
     }//GEN-LAST:event_btnGenerarQRActionPerformed
